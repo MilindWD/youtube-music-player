@@ -14,7 +14,7 @@ Grabs the MP3 format of the song and streams it for you.
   
 **If you want to make changes:**  
 &nbsp;&nbsp;&nbsp;&nbsp;**i** You should have NodeJS installed on your machine.   
-&nbsp;&nbsp;&nbsp;&nbsp;**ii** Go to the src folder and run  `npm run` and `npm i browserify`  
+&nbsp;&nbsp;&nbsp;&nbsp;**ii** Go to the src folder and run  `npm i browserify -g`  
 &nbsp;&nbsp;&nbsp;&nbsp;**iii** make changes in the files in src folder  
 &nbsp;&nbsp;&nbsp;&nbsp;**iv** If you made changes in the script.js file run `browserify script.js -o bundle.js` in src folder  
 &nbsp;&nbsp;&nbsp;&nbsp;**v** open index.html  
